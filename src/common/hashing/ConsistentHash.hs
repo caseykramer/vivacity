@@ -1,6 +1,6 @@
 {-
     A consistent hashing algorithm that is used to distribute keys amoung nodes
-    Based, mostly, on the example from 
+    Based, almost word for word, on the example from 
     http://www.fatvat.co.uk/2010/02/consistent-hashing-with-haskell.html
 -}
 
